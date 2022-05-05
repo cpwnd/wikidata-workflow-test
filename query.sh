@@ -1,7 +1,7 @@
 curl -G https://query.wikidata.org/sparql \
 	--header "Accept: text/csv"  \
 	--data-urlencode query='SELECT DISTINCT
-  ?zeitung ?zeitungLabel ?zeitungart ?zeitungartLabel ?verlag ?verlagLabel ?owner ?ownerLabel ?popLabel ?pop ?nuts
+  ?zeitung ?zeitungLabel ?popLabel ?pop ?nuts
   
   WHERE {
     ?zeitung wdt:P31/wdt:P279* wd:Q11032 , ?zeitungart . # /wdt:P279*
