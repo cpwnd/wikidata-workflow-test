@@ -54,4 +54,4 @@ curl -G https://query.wikidata.org/sparql \
     }
 	
     SERVICE wikibase:label { bd:serviceParam wikibase:language "de,[AUTO_LANGUAGE]". }
-  }'
+  } ORDER BY ?nuts ?zeitung'
