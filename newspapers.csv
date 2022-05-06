@@ -1,83 +1,83 @@
 zeitung,zeitungLabel,popLabel,pop,nuts
-http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Landkreis Ludwigsburg,http://www.wikidata.org/entity/Q8541,DE115
-http://www.wikidata.org/entity/Q98287018,Salings Börsenblatt,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q20853,Kieler Nachrichten,Kiel,http://www.wikidata.org/entity/Q1707,DEF02
-http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Main-Kinzig-Kreis,http://www.wikidata.org/entity/Q7911,DE719
-http://www.wikidata.org/entity/Q2175052,Ruhr Nachrichten,Dortmund,http://www.wikidata.org/entity/Q1295,DEA52
-http://www.wikidata.org/entity/Q19187499,Der Gesellschafter,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q1395074,Potsdamer Neueste Nachrichten,Potsdam,http://www.wikidata.org/entity/Q1711,DE404
-http://www.wikidata.org/entity/Q161423,die tageszeitung,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q326068,Frankfurter Rundschau,Frankfurt am Main,http://www.wikidata.org/entity/Q1794,DE712
+http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Stuttgart,http://www.wikidata.org/entity/Q1022,DE111
+http://www.wikidata.org/entity/Q28819667,Das Gesicht,Stuttgart,http://www.wikidata.org/entity/Q1022,DE111
+http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Stuttgart,http://www.wikidata.org/entity/Q1022,DE111
+http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Böblingen,http://www.wikidata.org/entity/Q8536,DE112
 http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Landkreis Böblingen,http://www.wikidata.org/entity/Q8536,DE112
+http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Esslingen,http://www.wikidata.org/entity/Q8533,DE113
+http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Landkreis Esslingen,http://www.wikidata.org/entity/Q8533,DE113
+http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Göppingen,http://www.wikidata.org/entity/Q8525,DE114
 http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Landkreis Göppingen,http://www.wikidata.org/entity/Q8525,DE114
-http://www.wikidata.org/entity/Q86529833,Gegen den Strom (Zeitschrift),Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Ludwigsburg,http://www.wikidata.org/entity/Q8541,DE115
+http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Landkreis Ludwigsburg,http://www.wikidata.org/entity/Q8541,DE115
+http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Rems-Murr-Kreis,http://www.wikidata.org/entity/Q8528,DE116
 http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Rems-Murr-Kreis,http://www.wikidata.org/entity/Q8528,DE116
-http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Offenbach am Main,http://www.wikidata.org/entity/Q3042,DE713
-http://www.wikidata.org/entity/Q1382514,Pforzheimer Zeitung,Pforzheim,http://www.wikidata.org/entity/Q3046,DE129
-http://www.wikidata.org/entity/Q821625,Berliner Lokal-Anzeiger,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q162563,junge Welt,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Enzkreis,http://www.wikidata.org/entity/Q8184,DE12B
-http://www.wikidata.org/entity/Q671143,Reichsgesetzblatt,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Heilbronn,http://www.wikidata.org/entity/Q715,DE117
+http://www.wikidata.org/entity/Q1973655,Neckar-Echo,Heilbronn,http://www.wikidata.org/entity/Q715,DE117
 http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Landkreis Heilbronn,http://www.wikidata.org/entity/Q7166,DE118
-http://www.wikidata.org/entity/Q61968442,Berliner Volksblatt,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Hohenlohekreis,http://www.wikidata.org/entity/Q8518,DE119
+http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Landkreis Karlsruhe,http://www.wikidata.org/entity/Q8178,DE123
 http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Neckar-Odenwald-Kreis,http://www.wikidata.org/entity/Q8174,DE127
 http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Rhein-Neckar-Kreis,http://www.wikidata.org/entity/Q8177,DE128
-http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Landkreis Karlsruhe,http://www.wikidata.org/entity/Q8178,DE123
-http://www.wikidata.org/entity/Q156203,Bild,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q15805204,Der Tag,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q10184,Frankfurter Allgemeine Zeitung,Frankfurt am Main,http://www.wikidata.org/entity/Q1794,DE712
-http://www.wikidata.org/entity/Q836156,Bundesgesetzblatt,Bonn,http://www.wikidata.org/entity/Q586,DEA22
-http://www.wikidata.org/entity/Q1454274,Freiheit (USPD),Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q1566708,Stader Tageblatt,Landkreis Rotenburg (Wümme),http://www.wikidata.org/entity/Q5923,DE937
-http://www.wikidata.org/entity/Q1196354,Der Rabe Ralf,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q265362,Der Freitag,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q59948918,Die Radlerin : Internationales Sportblatt der radfahrenden Damen,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q97581974,Das Vaterland,Frankfurt am Main,http://www.wikidata.org/entity/Q1794,DE712
-http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Ludwigsburg,http://www.wikidata.org/entity/Q8541,DE115
-http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Böblingen,http://www.wikidata.org/entity/Q8536,DE112
-http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Göppingen,http://www.wikidata.org/entity/Q8525,DE114
-http://www.wikidata.org/entity/Q10186,B.Z.,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Rems-Murr-Kreis,http://www.wikidata.org/entity/Q8528,DE116
-http://www.wikidata.org/entity/Q795180,B.Z. am Mittag,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Darmstadt,http://www.wikidata.org/entity/Q2973,DE711
-http://www.wikidata.org/entity/Q1430071,Frauen-Zeitung,Gera,http://www.wikidata.org/entity/Q3750,DEG02
-http://www.wikidata.org/entity/Q55521730,Berliner Gerichts-Zeitung,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q105392881,Neues Gera,Gera,http://www.wikidata.org/entity/Q3750,DEG02
+http://www.wikidata.org/entity/Q1382514,Pforzheimer Zeitung,Pforzheim,http://www.wikidata.org/entity/Q3046,DE129
+http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Enzkreis,http://www.wikidata.org/entity/Q8184,DE12B
+http://www.wikidata.org/entity/Q105488425,Ministerialamtsblatt Bayern,München,http://www.wikidata.org/entity/Q1726,DE212
+http://www.wikidata.org/entity/Q158870,Süddeutsche Zeitung,München,http://www.wikidata.org/entity/Q1726,DE212
+http://www.wikidata.org/entity/Q19196376,"Fliegende Blätter, Band 1",München,http://www.wikidata.org/entity/Q1726,DE212
+http://www.wikidata.org/entity/Q225076,Abendzeitung,München,http://www.wikidata.org/entity/Q1726,DE212
+http://www.wikidata.org/entity/Q279832,Münchner Merkur,München,http://www.wikidata.org/entity/Q1726,DE212
+http://www.wikidata.org/entity/Q105615184,Kurier für Niederbayern,Landshut,http://www.wikidata.org/entity/Q3974,DE221
 http://www.wikidata.org/entity/Q107299928,Dni : dvuchnedel'nik žurnal,Berlin,http://www.wikidata.org/entity/Q64,DE300
 http://www.wikidata.org/entity/Q107400846,Neues Berliner Tageblatt,Berlin,http://www.wikidata.org/entity/Q64,DE300
 http://www.wikidata.org/entity/Q108305924,Jüdische Rundschau,Berlin,http://www.wikidata.org/entity/Q64,DE300
-http://www.wikidata.org/entity/Q110624076,RUMS – Neuer Journalismus für Münster,Münster,http://www.wikidata.org/entity/Q2742,DEA33
-http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Heilbronn,http://www.wikidata.org/entity/Q715,DE117
-http://www.wikidata.org/entity/Q105615184,Kurier für Niederbayern,Landshut,http://www.wikidata.org/entity/Q3974,DE221
-http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Landkreis Esslingen,http://www.wikidata.org/entity/Q8533,DE113
-http://www.wikidata.org/entity/Q105488425,Ministerialamtsblatt Bayern,München,http://www.wikidata.org/entity/Q1726,DE212
+http://www.wikidata.org/entity/Q1196354,Der Rabe Ralf,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q1454274,Freiheit (USPD),Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q156203,Bild,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q15805204,Der Tag,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q161423,die tageszeitung,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q162563,junge Welt,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q19187499,Der Gesellschafter,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q265362,Der Freitag,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q55521730,Berliner Gerichts-Zeitung,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q59948918,Die Radlerin : Internationales Sportblatt der radfahrenden Damen,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q61968442,Berliner Volksblatt,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q671143,Reichsgesetzblatt,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q795180,B.Z. am Mittag,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q821625,Berliner Lokal-Anzeiger,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q86529833,Gegen den Strom (Zeitschrift),Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q98287018,Salings Börsenblatt,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q10186,B.Z.,Berlin,http://www.wikidata.org/entity/Q64,DE300
+http://www.wikidata.org/entity/Q1395074,Potsdamer Neueste Nachrichten,Potsdam,http://www.wikidata.org/entity/Q1711,DE404
+http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Darmstadt,http://www.wikidata.org/entity/Q2973,DE711
+http://www.wikidata.org/entity/Q326068,Frankfurter Rundschau,Frankfurt am Main,http://www.wikidata.org/entity/Q1794,DE712
+http://www.wikidata.org/entity/Q97581974,Das Vaterland,Frankfurt am Main,http://www.wikidata.org/entity/Q1794,DE712
+http://www.wikidata.org/entity/Q10184,Frankfurter Allgemeine Zeitung,Frankfurt am Main,http://www.wikidata.org/entity/Q1794,DE712
+http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Offenbach am Main,http://www.wikidata.org/entity/Q3042,DE713
+http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Main-Kinzig-Kreis,http://www.wikidata.org/entity/Q7911,DE719
+http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Landkreis Offenbach,http://www.wikidata.org/entity/Q7912,DE71C
+http://www.wikidata.org/entity/Q63349522,Städtischer Anzeiger,Rostock,http://www.wikidata.org/entity/Q2861,DE803
 http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Braunschweig,http://www.wikidata.org/entity/Q2773,DE911
-http://www.wikidata.org/entity/Q158870,Süddeutsche Zeitung,München,http://www.wikidata.org/entity/Q1726,DE212
-http://www.wikidata.org/entity/Q19187549,"Dresdner Journal, 2. Januar 1906",Dresden,http://www.wikidata.org/entity/Q1731,DED21
-http://www.wikidata.org/entity/Q91181685,Q91181685,Köln,http://www.wikidata.org/entity/Q365,DEA23
 http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Salzgitter,http://www.wikidata.org/entity/Q3200,DE912
+http://www.wikidata.org/entity/Q19964969,Wolfsburger Allgemeine Zeitung,Wolfsburg,http://www.wikidata.org/entity/Q3014,DE913
 http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Wolfsburg,http://www.wikidata.org/entity/Q3014,DE913
 http://www.wikidata.org/entity/Q19964969,Wolfsburger Allgemeine Zeitung,Landkreis Gifhorn,http://www.wikidata.org/entity/Q6053,DE914
-http://www.wikidata.org/entity/Q56887660,Durchblick,Dresden,http://www.wikidata.org/entity/Q1731,DED21
-http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Landkreis Esslingen,http://www.wikidata.org/entity/Q8533,DE113
-http://www.wikidata.org/entity/Q2359571,Stuttgarter Nachrichten,Stuttgart,http://www.wikidata.org/entity/Q1022,DE111
-http://www.wikidata.org/entity/Q1566708,Stader Tageblatt,Landkreis Cuxhaven,http://www.wikidata.org/entity/Q5897,DE932
-http://www.wikidata.org/entity/Q1566708,Stader Tageblatt,Landkreis Stade,http://www.wikidata.org/entity/Q5906,DE939
-http://www.wikidata.org/entity/Q2596618,Wümme-Zeitung,Landkreis Osterholz,http://www.wikidata.org/entity/Q5926,DE936
 http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Landkreis Gifhorn,http://www.wikidata.org/entity/Q6053,DE914
-http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Landkreis Wolfenbüttel,http://www.wikidata.org/entity/Q6041,DE91B
 http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Landkreis Helmstedt,http://www.wikidata.org/entity/Q6047,DE917
-http://www.wikidata.org/entity/Q1594796,Heilbronner Stimme,Hohenlohekreis,http://www.wikidata.org/entity/Q8518,DE119
-http://www.wikidata.org/entity/Q1973655,Neckar-Echo,Heilbronn,http://www.wikidata.org/entity/Q715,DE117
-http://www.wikidata.org/entity/Q279832,Münchner Merkur,München,http://www.wikidata.org/entity/Q1726,DE212
-http://www.wikidata.org/entity/Q63349522,Städtischer Anzeiger,Rostock,http://www.wikidata.org/entity/Q2861,DE803
-http://www.wikidata.org/entity/Q2015475,Offenbach-Post,Landkreis Offenbach,http://www.wikidata.org/entity/Q7912,DE71C
-http://www.wikidata.org/entity/Q28819667,Das Gesicht,Stuttgart,http://www.wikidata.org/entity/Q1022,DE111
-http://www.wikidata.org/entity/Q319663,Stuttgarter Zeitung,Stuttgart,http://www.wikidata.org/entity/Q1022,DE111
-http://www.wikidata.org/entity/Q2576247,Wilhelmshavener Zeitung,Wilhelmshaven,http://www.wikidata.org/entity/Q3857,DE945
-http://www.wikidata.org/entity/Q225076,Abendzeitung,München,http://www.wikidata.org/entity/Q1726,DE212
-http://www.wikidata.org/entity/Q67647086,Nichtsnutz,Leipzig,http://www.wikidata.org/entity/Q2079,DED51
-http://www.wikidata.org/entity/Q19196376,"Fliegende Blätter, Band 1",München,http://www.wikidata.org/entity/Q1726,DE212
-http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Landkreis Harz,http://www.wikidata.org/entity/Q6087,DEE09
 http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Landkreis Peine,http://www.wikidata.org/entity/Q6045,DE91A
-http://www.wikidata.org/entity/Q19964969,Wolfsburger Allgemeine Zeitung,Wolfsburg,http://www.wikidata.org/entity/Q3014,DE913
+http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Landkreis Wolfenbüttel,http://www.wikidata.org/entity/Q6041,DE91B
+http://www.wikidata.org/entity/Q1566708,Stader Tageblatt,Landkreis Cuxhaven,http://www.wikidata.org/entity/Q5897,DE932
+http://www.wikidata.org/entity/Q2596618,Wümme-Zeitung,Landkreis Osterholz,http://www.wikidata.org/entity/Q5926,DE936
+http://www.wikidata.org/entity/Q1566708,Stader Tageblatt,Landkreis Rotenburg (Wümme),http://www.wikidata.org/entity/Q5923,DE937
+http://www.wikidata.org/entity/Q1566708,Stader Tageblatt,Landkreis Stade,http://www.wikidata.org/entity/Q5906,DE939
+http://www.wikidata.org/entity/Q2576247,Wilhelmshavener Zeitung,Wilhelmshaven,http://www.wikidata.org/entity/Q3857,DE945
+http://www.wikidata.org/entity/Q836156,Bundesgesetzblatt,Bonn,http://www.wikidata.org/entity/Q586,DEA22
+http://www.wikidata.org/entity/Q91181685,Q91181685,Köln,http://www.wikidata.org/entity/Q365,DEA23
+http://www.wikidata.org/entity/Q110624076,RUMS – Neuer Journalismus für Münster,Münster,http://www.wikidata.org/entity/Q2742,DEA33
+http://www.wikidata.org/entity/Q2175052,Ruhr Nachrichten,Dortmund,http://www.wikidata.org/entity/Q1295,DEA52
+http://www.wikidata.org/entity/Q19187549,"Dresdner Journal, 2. Januar 1906",Dresden,http://www.wikidata.org/entity/Q1731,DED21
+http://www.wikidata.org/entity/Q56887660,Durchblick,Dresden,http://www.wikidata.org/entity/Q1731,DED21
+http://www.wikidata.org/entity/Q67647086,Nichtsnutz,Leipzig,http://www.wikidata.org/entity/Q2079,DED51
+http://www.wikidata.org/entity/Q902014,Braunschweiger Zeitung,Landkreis Harz,http://www.wikidata.org/entity/Q6087,DEE09
+http://www.wikidata.org/entity/Q20853,Kieler Nachrichten,Kiel,http://www.wikidata.org/entity/Q1707,DEF02
+http://www.wikidata.org/entity/Q105392881,Neues Gera,Gera,http://www.wikidata.org/entity/Q3750,DEG02
+http://www.wikidata.org/entity/Q1430071,Frauen-Zeitung,Gera,http://www.wikidata.org/entity/Q3750,DEG02
